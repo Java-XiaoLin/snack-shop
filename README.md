@@ -3,35 +3,6 @@
 #### 介绍
 ssm+jsp的零食商城系统，带前后台（jar包管理没使用maven），带数据库，完美运行
 
-#### 软件架构
-软件架构说明
 
-
-#### 安装教程
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### 运行截图
+![![![![![![![输入图片说明](https://images.gitee.com/uploads/images/2021/0213/184649_af650a1e_6526061.png "18.png")](https://images.gitee.com/uploads/images/2021/0213/184641_a0b76c32_6526061.png "19.png")](https://images.gitee.com/uploads/images/2021/0213/184635_964e20b7_6526061.png "20.png")](https://images.gitee.com/uploads/images/2021/0213/184630_bdc53b3b_6526061.png "11.png")](https://images.gitee.com/uploads/images/2021/0213/184622_37ca7615_6526061.png "在这里输入图片标题")](https://images.gitee.com/uploads/images/2021/0213/184615_ef7e23f3_6526061.png "4.png")](https://images.gitee.com/uploads/images/2021/0213/184609_098fc20a_6526061.png "2.png")
